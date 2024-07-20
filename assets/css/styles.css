@@ -148,6 +148,7 @@ main {
 /* Recipe Header */
 .recipe-header > h1 {
     font-size: clamp(1.9rem, 5vw, 2.25rem);
+    font-weight: 400;
     font-family: 'Young Serif', serif;
     margin-bottom: var(--size-300);
     color: var(--stone-900);
