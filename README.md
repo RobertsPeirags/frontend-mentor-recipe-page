@@ -8,7 +8,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 - Solution URL: [Github Repository](https://github.com/RobertsPeirags/frontend-mentor-recipe-page/)
-- Live Site URL: [Github Pages](https://robertspeirags.github.io/frontend-mentor-recipe-page/dist/index.html)
+- Live Site URL: [Github Pages](https://robertspeirags.github.io/frontend-mentor-recipe-page/index.html)
 
 ## Author
 - Github - [@RobertsPeirags](https://github.com/RobertsPeirags)
