@@ -164,6 +164,7 @@ main {
 }
 
 .preparation > h2 {
+    font-family: 'Outfit', sans-serif;
     font-size: 1.25rem;
     color: var(--rose-800);
     margin-bottom: var(--size-200);
