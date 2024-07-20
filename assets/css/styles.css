@@ -143,7 +143,7 @@ main {
 .card-content {
     display: flex;
     flex-direction: column;
-    padding: var(--size-400);
+    padding: var(--size-500) var(--size-400);
     gap: var(--size-500);
 }
 
